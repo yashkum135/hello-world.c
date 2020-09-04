@@ -1,2 +1,8 @@
-# hello-world.c
-displaying output as hello world
+#include <stdio.h>
+int main()
+ {
+
+	printf("yeswanth kumar");
+	return 0;
+}
+
